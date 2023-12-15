@@ -1,6 +1,6 @@
-### Test task for the position of senior .NET developer
+### Test task for the position of .NET developer
 
-#### To start, follow the following instructions:
+#### Follow the instructions:
 
 ```sh
 git clone https://github.com/min44/UnaDesk.TriangleUnicorn.git

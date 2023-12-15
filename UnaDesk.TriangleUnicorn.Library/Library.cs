@@ -73,7 +73,9 @@ public static class Library
                 throw new Exception($"Test failed. Actual={actual}. Expected={tc.expected}");
             }
 
-            Console.WriteLine($"s1={tc.s1}, s2={tc.s2}, s3={tc.s3}. Actual={actual}. Expected={tc.expected}\n");
+            Console.WriteLine($"s1={tc.s1}, s2={tc.s2}, s3={tc.s3}. Actual={actual}. Expected={tc.expected}");
         }
+        
+        Console.WriteLine("All tests passed!\n");
     }
 }
